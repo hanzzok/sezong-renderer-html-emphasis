@@ -1,0 +1,21 @@
+{
+  "name": "sezong-renderer-html-emphasis",
+  "version": "0.1.0",
+  "description": "The renderers for HTML platform of Sezong which based on sezong-rule-emphasis",
+  "main": "index.js",
+  "repository": "https://github.com/langsezong/sezong-platform-html",
+  "author": "RanolP <public.ranolp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sezong": "^0.3.10",
+    "sezong-platform-html": "^0.1.1",
+    "sezong-rule-emphasis": "^0.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "prettier": "^1.16.1",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "^3.2.4"
+  }
+}
